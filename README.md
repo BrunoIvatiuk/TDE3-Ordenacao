@@ -4,7 +4,7 @@
 
 - Vetor 1
 
-  |    Algorítmo    | Nº Trocas |
+  |    Algoritmo    | Nº Trocas |
   | :-------------: | :-------: |
   | BucketSort      | 49        |
   | SelectionSort   | 54        |
@@ -16,7 +16,7 @@
 
 - Vetor 2
 
-  |    Algorítmo    | Nº Trocas |
+  |    Algoritmo    | Nº Trocas |
   | :-------------: | :-------: |
   | CombSort        | 0         |
   | GnomeSort       | 0         |
@@ -27,7 +27,7 @@
 
 - Vetor 3  
 
-  |    Algorítmo    | Nº Trocas |
+  |    Algoritmo    | Nº Trocas |
   | :-------------: | :-------: |
   | SelectionSort   | 30        |
   | BucketSort      | 48        |
@@ -41,7 +41,7 @@
 
 - Vetor 1  
 
-  |    Algorítmo    | Nº Iterações |
+  |    Algoritmo    | Nº Iterações |
   | :-------------: | :----------: |
   | BucketSort      | 89           |
   | CombSort        | 138          |
@@ -52,7 +52,7 @@
 
 - Vetor 2
 
-  |    Algorítmo    | Nº Iterações |
+  |    Algoritmo    | Nº Iterações |
   | :-------------: | :----------: |
   | GnomeSort       | 20           |
   | BubbleSort      | 20           |
@@ -63,7 +63,7 @@
 
 - Vetor 3  
 
-  |    Algorítmo    | Nº Iterações |
+  |    Algoritmo    | Nº Iterações |
   | :-------------: | :----------: |
   | BucketSort      | 102          |
   | CombSort        | 138          |
